@@ -1,0 +1,1 @@
+npx webpack => let us to execute the local dependency as global
